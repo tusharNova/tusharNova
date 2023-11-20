@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Mankar</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-<img align="right" alt="Coding" width="450" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
+<img align="right" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 
 
 
@@ -44,7 +44,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharnova&show_icons=true&locale=en&layout=compact" alt="tusharnova" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharnova&show_icons=true&locale=en&layout=compact" alt="tusharnova" /></p>
 
 
 
