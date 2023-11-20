@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Mankar</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-<img align="right" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
+<img align="right" alt="Coding" width="500" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 
 
 
