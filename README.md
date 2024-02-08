@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharnova&label=Profile%20views&color=0e75b6&style=flat" alt="tusharnova" /> </p>
 
-- 🌱 I’m currently learning **Python ,Django**
+- 🌱 I’m currently Working in  **Python ,Django**
 
 - 🤝 I’m looking for help with **OpenCV**
 
