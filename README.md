@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharnova&label=Profile%20views&color=0e75b6&style=flat" alt="tusharnova" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=tusharnova&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/search?sca_esv=689b2325b95f8dd1&sca_upv=1&sxsrf=ADLYWIKarlh6ePthYoY2Li2vL2whONBXLw:1719056102660&q=animated+coding+gif+for+github&uds=ADvngMgk8dCQPZtRErC7z-p5w3_rp-fAN21pprwdmkD7udNPcOO_F9yVDfyh3savB6IQM4JNEQIUA2AYnNl2U58wyMva9ZYANMBFl0fcEh_Wy4b8Ke7DPkFfYsQJ7TUoRIx0WkDTDcH-cYduSusLO3vwu48_KSSjrwrEcVM2Pd9EBoTdd4Z7QBo&udm=2&sa=X&ved=2ahUKEwie_uOCj--GAxWv6zgGHatdDXUQxKsJegQIBxAB&ictx=0&biw=1517&bih=665&dpr=0.9#vhid=JJ_kKo0xpY7pCM&vssid=mosaic)" alt="tusharnova" /> </p>
 
 - 🌱 I’m currently Working in  **Python ,Django**
 
