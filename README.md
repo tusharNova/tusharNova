@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 I’m currently working on my new Python framework relate to Gui for better (PyQtforge)
-development<br>🔭 I’m currently working on Python , Django,ASP .net MVC 6<br>👯 I’m looking to collaborate on ASp .net MVC 6<br>🤝 I’m looking for help with ASp .net MVC 6<br>🌱 I’m currently learning MVC 6 ,Django ,Php<br>💬 Ask me about Python ,Django ,Git<br>
+development<br>🔭 I’m currently working on Python , Django,ASP .net MVC 6<br>👯 I’m looking to collaborate on ASp .net MVC 6<br>🤝 I’m looking for help with ASp .net MVC 6<br>🌱 I’m currently learning MVC 6 ,Django ,FastAPI <br>💬 Ask me about Python ,Django ,Git<br>
 
 
 ## 🌐 Socials:
